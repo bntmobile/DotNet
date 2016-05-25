@@ -10,6 +10,7 @@ using Word = Microsoft.Office.Interop.Word;
 
 namespace BuscandoAndoPatrones
 {
+    // Clase creada para crear objectos de acuerdo a los files que se van a leer y se haran busquedas en estos objetos
     class File
     {
         #region Attributos

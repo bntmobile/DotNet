@@ -11,3 +11,16 @@ C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones
 C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscadorFreudiano.exe
 C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscadorFreudiano.pdb
 C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.csprojResolveAssemblyReference.cache
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Release\BuscadorFreudiano.exe.config
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscadorFreudiano.exe
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscadorFreudiano.pdb
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Release\Setting.ini
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Release\BuscadorFreudiano.exe
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Release\BuscadorFreudiano.pdb
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.csprojResolveAssemblyReference.cache
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.Form1.resources
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.Main.resources
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.Properties.Resources.resources
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.Render.resources
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.SepararArchivos.resources
+C:\Users\Ben Sánchez\Documents\GitHub\DotNet\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Release\BuscandoAndoPatrones.csproj.GenerateResource.Cache
