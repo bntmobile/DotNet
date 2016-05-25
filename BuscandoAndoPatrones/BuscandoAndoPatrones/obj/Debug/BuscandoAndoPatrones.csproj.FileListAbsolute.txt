@@ -1,0 +1,22 @@
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Debug\BuscandoAndoPatrones.exe.config
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Debug\BuscandoAndoPatrones.exe
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Debug\BuscandoAndoPatrones.pdb
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Form1.resources
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Properties.Resources.resources
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.exe
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.pdb
+\\mac\home\documents\visual studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Render.resources
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Debug\BuscandoAndoPatrones.exe.config
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.exe
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.pdb
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Debug\BuscandoAndoPatrones.exe
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\bin\Debug\BuscandoAndoPatrones.pdb
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.csprojResolveAssemblyReference.cache
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Form1.resources
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Properties.Resources.resources
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Render.resources
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.csproj.GenerateResource.Cache
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.Main.resources
+C:\Users\Ben Sánchez\Documents\Visual Studio 2012\Projects\BuscandoAndoPatrones\BuscandoAndoPatrones\obj\Debug\BuscandoAndoPatrones.SepararArchivos.resources
